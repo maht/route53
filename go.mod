@@ -6,7 +6,7 @@ toolchain go1.22.5
 
 require (
 	github.com/caddyserver/caddy/v2 v2.8.4
-	github.com/libdns/route53 v1.5.1
+	github.com/libdns/route53 v1.5.2-0.20250616173015-e55e1643db52
 )
 
 require (
